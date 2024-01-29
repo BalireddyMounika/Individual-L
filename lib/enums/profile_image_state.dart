@@ -1,0 +1,1 @@
+enum ProfileImageState { Loading, Completed, Error, Idle, Empty }

@@ -1,0 +1,25 @@
+import 'package:flutter/material.dart';
+
+//const baseColor = Color(0xff90CC70);
+const baseColor = Color(0xff71B5DA);
+const disableBaseColor = Color(0xffA6C7D9);
+const disableColor = Color(0xffd1cfcb);
+const secondaryColor = Color(0xff90CC70);
+const darkColor =  Color(0xff707070);
+const appBarShadowColor =  Colors.transparent;
+const appBarColor = Colors.white;
+const blackColor = Colors.black;
+const backgroundColor = Color(0xffF8F8F6);
+const whiteColor = Color(0xfffcf9f9);
+const unSelectedColor = Color(0xff7B8D9E);
+const redColor = Color(0xffFA691B);
+const greenColor = Color(0xff199A8E);
+const successColor = Color(0xff14A44D);
+const warningColor = Color(0xffE4A11B);
+const infoColor = Color(0xff54B4D3);
+const errorColor = Color(0xffDC4C64);
+const greyColor = Color(0xff9FA6B2);
+const pharmacyHeaderBgColor = Color(0xffcacaca);
+const immunizationDateColor = Color(0xffc7c7c7);
+const immunizationContainerColor = Color(0xffffffff);
+const immunizationVaccineNameColor = Color(0xff929292);

@@ -1,0 +1,6 @@
+const stage_url = "https://staging-api.vivifyhealthcare.com/";
+const production_url = "http://api.vivifyhealthcare.com/";
+
+final stageHeader ="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzAwMzc2NDczLCJqdGkiOiIxOTM2MTYxNjBmNWQ0NWY4YTM1ODMxODRhNmI4MTE0NCIsInVzZXJfaWQiOjV9.eI5wGuKcMICCmA7-V7wg0RXQHvnFtVP4KNdV_01U3so";
+final productionHeadr =
+    "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjc1NTA4ODY5LCJqdGkiOiJhMDQwOGRhMGZjMDc0MWFhOGVjMGEzZGI0NWE1ZmVjMCIsInVzZXJfaWQiOjF9.65WWQYvRBfW1Vgf6ccdBuFIyEMpV4fe9E-RdLSQ6-Co";
